@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.repo)
+
 # Time Series Engine: Modeling + Simulation
 
 A small library for time-series diagnostics, AR modeling, and Monte Carlo simulation of stochastic processes.
@@ -19,5 +21,3 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -U pip
 pip install -e .
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.repo)
