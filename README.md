@@ -19,3 +19,6 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -U pip
 pip install -e .
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.repo)
